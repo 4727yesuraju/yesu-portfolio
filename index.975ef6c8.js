@@ -27089,13 +27089,13 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Yesu Raju",
     title: "Mern Stack Developer & Digital Marketer",
-    email: "4727yesu@gmail.com",
+    email: "4727yesuraju@gmail.com",
     gitHub: "4727yesuraju",
-    instagram: "4727yesu",
+    instagram: "",
     linkedIn: "4727yesuraju",
     medium: "",
-    twitter: "4727yesuraju",
-    youTube: "4727yesuraju"
+    twitter: "",
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
